@@ -3,7 +3,7 @@ import { createUserWithEmailAndPassword, getAuth, GoogleAuthProvider, onAuthStat
 import { collection, doc, getDoc, getDocs, getFirestore, query, setDoc, writeBatch } from 'firebase/firestore';
 const firebaseConfig = {
 
-    apiKey: "AIzaSyA5Al7yntpvg4GqCeSKCzgERw-wiCbhvi0",
+    apiKey: "",
   
     authDomain: "marvel-comics-shop-db.firebaseapp.com",
   
