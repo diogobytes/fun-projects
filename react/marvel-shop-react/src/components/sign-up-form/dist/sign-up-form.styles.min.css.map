@@ -1,1 +1,0 @@
-{"version":3,"sources":["sign-up-form.styles.scss"],"names":[],"mappings":"AAAA,mBACE,QAAS,KACT,eAAgB,OAChB,MAAO,MAGT,GACE,OAAQ,KAAK","file":"sign-up-form.styles.min.css","sourcesContent":[".sign-up-container {\n    display: flex;\n    flex-direction: column;\n    width: 380px;\n}\nh2{\n    margin: 10px 0;\n}"]}

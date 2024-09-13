@@ -1,1 +1,0 @@
-{"version":3,"names":[],"mappings":"","sources":["category.styles.scss"],"sourcesContent":[".category-container {\n    display: grid;\n    grid-template-columns: repeat(4,1fr);\n    column-gap: 20px;\n    row-gap: 50px;\n}"],"file":"category.styles.css"}
