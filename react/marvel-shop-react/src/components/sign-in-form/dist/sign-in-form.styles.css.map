@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["sign-in-form.styles.scss"],"sourcesContent":[".sign-in-container {\n    display: flex;\n    flex-direction: column;\n    width: 380px;\n}\nh2{\n    margin: 10px 0;\n}\n\n.buttons-container {\n    display: flex;\n    justify-content: space-between;\n}"],"file":"sign-in-form.styles.css"}
