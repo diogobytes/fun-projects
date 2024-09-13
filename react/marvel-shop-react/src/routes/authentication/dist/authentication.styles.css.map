@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["authentication.styles.scss"],"sourcesContent":[".authentication-container {\n    display:flex;\n    width: 900px;\n    justify-content: space-between;\n    margin: 30px auto;\n}"],"file":"authentication.styles.css"}
