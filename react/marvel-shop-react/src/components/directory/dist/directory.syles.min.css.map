@@ -1,1 +1,0 @@
-{"version":3,"sources":["directory.syles.scss"],"names":[],"mappings":"AAAA,qBACE,QAAS,KACT,UAAW","file":"directory.syles.min.css","sourcesContent":[".directory-container{\n  display: flex;\n  flex-wrap: wrap;\n\n}"]}

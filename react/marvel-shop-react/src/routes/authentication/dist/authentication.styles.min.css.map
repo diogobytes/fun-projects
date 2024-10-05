@@ -1,1 +1,0 @@
-{"version":3,"sources":["authentication.styles.scss"],"names":[],"mappings":"AAAA,0BACE,QAAS,KACT,MAAO,MACP,gBAAiB,cACjB,OAAQ,KAAK","file":"authentication.styles.min.css","sourcesContent":[".authentication-container {\n    display:flex;\n    width: 900px;\n    justify-content: space-between;\n    margin: 30px auto;\n}"]}

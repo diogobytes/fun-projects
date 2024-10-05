@@ -1,1 +1,0 @@
-{"version":3,"names":[],"mappings":"","sources":["directory.syles.scss"],"sourcesContent":[".directory-container{\n  display: flex;\n  flex-wrap: wrap;\n\n}"],"file":"directory.syles.css"}
