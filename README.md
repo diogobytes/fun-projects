@@ -1,3 +1,4 @@
-# fun-projects
+# Fun projects
 
-Collection of other related projects (React, Java etc)
+
+Collection of other related projects.
